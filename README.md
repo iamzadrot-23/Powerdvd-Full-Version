@@ -245,4 +245,4 @@ This repository serves as the official landing page for PowerDVD. The software i
 **Get the most recent version of PowerDVD today!**
 
 ---
-**Last updated:** 2026-10-13 23:14:36 UTC
+**Last updated:** 2026-10-14 04:38:15 UTC
